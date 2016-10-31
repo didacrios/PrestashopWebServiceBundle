@@ -1011,4 +1011,4 @@ class PrestaShopWebservice
 /**
  * @package PrestaShopWebservice
  */
-class PrestaShopWebserviceException extends Exception { }
+class PrestaShopWebserviceException extends \Exception { }
